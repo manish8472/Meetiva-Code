@@ -7,14 +7,16 @@ import { collection, getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+// **************PUT THESE VALUE FROM FIREBASE CONFIGRATION PROVIDE DURING CREATION OF PROJECT******************
 const firebaseConfig = {
-  apiKey: "AIzaSyAu4GRa1grZBJRxSqNgvtYGnTjQfYpw1oU",
-  authDomain: "zoomclone-257cf.firebaseapp.com",
-  projectId: "zoomclone-257cf",
-  storageBucket: "zoomclone-257cf.appspot.com",
-  messagingSenderId: "206774794783",
-  appId: "1:206774794783:web:6d4a6e716cac66065ff32a",
-  measurementId: "G-EVYNCGPRG7"
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: ,
+  measurementId: 
 };
 
 // Initialize Firebase
